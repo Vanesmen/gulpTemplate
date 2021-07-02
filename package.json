@@ -1,0 +1,51 @@
+{
+  "name": "learngulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gusev Ivan",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.4",
+    "del": "^6.0.0",
+    "eslint": "^7.11.0",
+    "eslint-config-standard": "^14.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-pug": "^5.0.0",
+    "gulp-pug-linter": "^1.5.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-shorthand": "^1.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-stylelint": "^13.0.0",
+    "gulp-svgstore": "^8.0.0",
+    "gulp-terser": "^2.0.1",
+    "node-sass": "^6.0.1",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.35.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^22.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "chrome-launcher": "^0.14.0",
+    "eslint-config-htmlacademy": "^4.0.2",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-standard": "^5.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-w3c-html-validator": "^1.4.4",
+    "lighthouse": "^8.0.0"
+  }
+}

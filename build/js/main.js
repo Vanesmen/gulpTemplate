@@ -1,0 +1,2 @@
+"use strict";var testF=function(t){return t};testF("тук тук");
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiXSwibmFtZXMiOlsidGVzdEYiLCJhIl0sIm1hcHBpbmdzIjoiQUFBQSxhQUFBLElBQU1BLE1BQVEsU0FBQ0MsR0FDYixPQUFPQSxHQUdURCxNQUFLIiwiZmlsZSI6Im1haW4uanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCB0ZXN0RiA9IChhKSA9PiB7XHJcbiAgcmV0dXJuIGFcclxufVxyXG5cclxudGVzdEYoYNGC0YPQuiDRgtGD0LpgKVxyXG4iXX0=
